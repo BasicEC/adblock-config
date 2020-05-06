@@ -10,3 +10,4 @@ vk.com##.profile_warning_row.clear_fix
 vk.com##.profile_friends_recomm  
 vk.com##.ads_ads_news_wrap  
 vk.com###ya_direct  
+##.spns_yd_240x600  
