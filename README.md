@@ -8,3 +8,5 @@ vk.com##.ads_ads_box3.ver.repeat_ver.size_site
 vk.com##.feed_friends_recomm  
 vk.com##.profile_warning_row.clear_fix  
 vk.com##.profile_friends_recomm
+vk.com##.ads_ads_news_wrap
+vk.com###ya_direct
