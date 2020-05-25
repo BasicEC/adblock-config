@@ -12,4 +12,6 @@ vk.com##.ads_ads_news_wrap
 vk.com###ya_direct  
 ##.spns_yd_240x600   
 vk.com##.feed_blog_reminder   
-vk.com##.post_suggest
+vk.com##.post_suggest  
+youtube.com##.video-ads  
+youtube.com##.ytp-ad-module
