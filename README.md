@@ -16,6 +16,7 @@ vk.com annoying content
 ##.feed_friends_recomm
 ##.profile_friends_recomm
 ##.profile_warning_row.clear_fix
+##.ShortVideoFeedBlock
 ```
 
 shikimori.one
