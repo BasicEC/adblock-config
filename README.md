@@ -28,3 +28,7 @@ youtube.com
 ##.video-ads
 ##.ytp-ad-module
 ```
+coub.com
+```
+##.adfox-banner--sidebar
+```
