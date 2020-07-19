@@ -2,33 +2,33 @@
 
 vk.com ads
 ```
-###ya_direct
-##.right_list
-##._ads_block_data_w
-##.ads_ads_news_wrap
-##.trg-b-banner-block
-##.ads_ads_box.ver.repeat_ver.size_site
+vk.com###ya_direct
+vk.com##.right_list
+vk.com##._ads_block_data_w
+vk.com##.ads_ads_news_wrap
+vk.com##.trg-b-banner-block
+vk.com##.ads_ads_box.ver.repeat_ver.size_site
 ```
 vk.com annoying content
 ```
-##.post_suggest
-##.feed_blog_reminder
-##.feed_friends_recomm
-##.profile_friends_recomm
-##.profile_warning_row.clear_fix
-##.ShortVideoFeedBlock
+vk.com##.post_suggest
+vk.com##.feed_blog_reminder
+vk.com##.feed_friends_recomm
+vk.com##.profile_friends_recomm
+vk.com##.profile_warning_row.clear_fix
+vk.com##.ShortVideoFeedBlock
 ```
 
 shikimori.one
 ```
-##.spns_yd_240x600   
+shikimori.one##.spns_yd_240x600   
 ```
 youtube.com
 ```
-##.video-ads
-##.ytp-ad-module
+youtube.com##.video-ads
+youtube.com##.ytp-ad-module
 ```
 coub.com
 ```
-##.adfox-banner--sidebar
+coub.com##.adfox-banner--sidebar
 ```
