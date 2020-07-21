@@ -32,4 +32,5 @@ coub.com
 ```
 coub.com##.adfox-banner--sidebar
 coub.com##.roxotAdContainer
+coub.com##.coub--promoted
 ```
