@@ -31,4 +31,5 @@ youtube.com##.ytp-ad-module
 coub.com
 ```
 coub.com##.adfox-banner--sidebar
+coub.com##.roxotAdContainer
 ```
