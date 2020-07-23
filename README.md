@@ -8,6 +8,7 @@ vk.com##._ads_block_data_w
 vk.com##.ads_ads_news_wrap
 vk.com##.trg-b-banner-block
 vk.com##.ads_ads_box.ver.repeat_ver.size_site
+vk.com##.audio_promo
 ```
 vk.com annoying content
 ```
