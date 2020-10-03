@@ -14,6 +14,7 @@ vk.com annoying content
 ```
 vk.com##.post_suggest
 vk.com##.feed_blog_reminder
+vk.com##.feed_groups_recomm
 vk.com##.feed_friends_recomm
 vk.com##.profile_friends_recomm
 vk.com##.profile_warning_row.clear_fix
