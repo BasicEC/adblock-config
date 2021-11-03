@@ -20,6 +20,7 @@ vk.com##.profile_friends_recomm
 vk.com##.profile_warning_row.clear_fix
 vk.com##.ShortVideoFeedBlock
 vk.com##.GroupsRecommendationsBlock
+vk.com##.ConvoRecommendList
 ```
 
 shikimori.one
